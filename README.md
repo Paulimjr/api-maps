@@ -1,2 +1,2 @@
-# api-maps
+# Maps API
 Maps API
