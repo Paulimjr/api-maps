@@ -5,7 +5,7 @@
 
 	<groupId>br.com.api.maps</groupId>
 	<artifactId>api-maps</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>api-maps</name>

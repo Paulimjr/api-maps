@@ -3,7 +3,6 @@ package br.com.api.maps.services;
 import java.util.List;
 
 import br.com.api.maps.entity.Company;
-import br.com.api.maps.exceptions.BusinessException;
 import br.com.api.maps.exceptions.ObjectNotFoundException;
 
 public interface CompanyServiceImpl {
