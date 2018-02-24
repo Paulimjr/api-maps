@@ -14,5 +14,4 @@ import br.com.api.maps.entity.Company;
 @Repository
 public interface CompanyRepository extends JpaRepository<Company, Integer>{
 
-
 }
